@@ -1,2 +1,3 @@
 Hello from CLI!
 New changes in the file to check merge conflict.
+edited again
